@@ -1,0 +1,21 @@
+
+    html{
+        background-color: blue;
+    }
+
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+.card{
+    width: 500pxl;
+    background-color: red;
+    text-align: center;
+
+
+}
+#dish-name{
+    color: white;
+}
